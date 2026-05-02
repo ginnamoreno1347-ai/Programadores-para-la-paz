@@ -1,0 +1,35 @@
+Checklist de accesibilidad – Formulario Participa
+
+Nombre del estudiante: Isabella rodriguez
+Fecha: 2 de mayo
+Nombre de la rama:isabella_rodrigues
+
+1. ¿El formulario tiene un título claro?
+Respuesta:No
+
+2. ¿El formulario explica para qué se usará la información?
+Respuesta:No
+
+3. ¿Cada campo tiene un label o etiqueta visible?
+Respuesta:No se 
+
+4. ¿El lenguaje usado es sencillo y comprensible?
+Respuesta:Si
+
+5. ¿El formulario evita pedir datos innecesarios?
+Respuesta:Si
+
+6. ¿El campo principal permite escribir una propuesta o mensaje de forma clara?
+Respuesta:si
+
+7. ¿El formulario incluye una casilla o mensaje de consentimiento?
+Respuesta:Si
+
+8. ¿El botón de envío tiene un texto claro?
+Respuesta:No
+
+9. ¿La página se puede leer con facilidad?
+Respuesta:Si
+
+10. ¿Qué mejorarías del formulario para que más personas puedan usarlo?
+Respuesta: Que sea mas practico eh comprendible para mas personas
