@@ -1,0 +1,9 @@
+ls
+mkdir semana2
+cd semana2
+touch preguntas-semana2.txt
+touch comandos-termina.txt
+touch reflexion-semana2.txt
+Notepad preguntas-semana2.txt
+Notepad comandos-terminal.txt
+Notepad reflexion-semana2.txt
