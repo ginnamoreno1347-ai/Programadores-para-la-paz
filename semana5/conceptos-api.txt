@@ -1,0 +1,5 @@
+
+La ruta POST /reporte recibe un mensaje enviado por el usuario en formato JSON. 
+El servidor responde confirmando que el reporte fue recibido. 
+En una comunidad digital puede servir para enviar alertas, sugerencias o problemas, 
+de manera organizada y segura.

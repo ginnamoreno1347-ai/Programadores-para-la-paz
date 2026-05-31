@@ -1,0 +1,9 @@
+
+Las APIs permiten que diferentes aplicaciones se comuniquen entre sí. 
+En una comunidad digital esto ayuda a que los reportes y alertas lleguen de forma clara y ordenada. 
+Así se evita la confusión y se asegura que todos tengan acceso a la misma información. 
+Además, las APIs pueden conectarse con bases de datos o sistemas de notificación, 
+lo que hace más rápido el proceso de respuesta. 
+También fortalecen la confianza porque los datos se manejan de manera segura. 
+Gracias a ellas, la comunidad puede organizarse mejor y reaccionar a tiempo ante emergencias. 
+En conclusión, las APIs son un puente que une a las personas con la información de forma confiable.
