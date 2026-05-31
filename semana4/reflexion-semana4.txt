@@ -1,0 +1,11 @@
+Esta semana aprendí a hacer un servidor con Node.js y Express. 
+Al principio me confundí porque el archivo no funcionaba y me salían errores raros, 
+pero poco a poco fui entendiendo qué pasaba y logré arreglarlo. 
+Me dio mucha emoción cuando vi en el navegador el mensaje de “Servidor funcionando correctamente”, 
+porque sentí que todo el esfuerzo valió la pena. 
+Me di cuenta de que programar es como un juego: a veces te equivocas, 
+pero si sigues intentando, al final lo logras. 
+También aprendí que hay que tener cuidado con los nombres de los archivos, 
+porque un detalle pequeño puede cambiar todo. 
+Ahora me siento más segura y feliz de saber que puedo crear cosas nuevas con código. 
+Creo que este aprendizaje me va a servir mucho para seguir creciendo y aprendiendo más.
