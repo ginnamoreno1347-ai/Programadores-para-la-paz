@@ -1,14 +1,13 @@
-pregunto 1:
-respuesta: B
+Pregunta 1: ¿Qué es Git?
+Respuesta: Es un sistema de control de versiones que permite gestionar los cambios en los archivos de un proyecto.
 
-pregunta 2:
-respuesta: B
+Pregunta 2: ¿Qué es un commit?
+Respuesta: Es un registro de los cambios realizados en el repositorio local, acompañado de un mensaje descriptivo.
 
-pregunta 3:
-respuesta: B
+Pregunta 3: ¿Qué es un push?
+Respuesta: Es el comando que envía los commits desde el repositorio local hacia el repositorio remoto en GitHub.
 
-pregunta 4:
-respuesta: A
-
+Pregunta 4: ¿Por qué es importante usar Git en proyectos colaborativos?
+Respuesta: Porque permite que varios desarrolladores trabajen en el mismo proyecto de manera organizada, manteniendo un historial claro de cambios y evitando conflictos.
 
 

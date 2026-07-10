@@ -1,0 +1,11 @@
+En esta segunda semana aprendí a manejar mejor los comandos básicos de la terminal. 
+Comprendí la importancia de organizar los archivos en carpetas específicas para el repositorio. 
+El uso de nano me permitió crear y editar documentos directamente desde la consola. 
+También reforcé el significado de los comandos git add, commit y push. 
+Estos pasos son fundamentales para mantener actualizado el proyecto en GitHub. 
+Me di cuenta de que los errores como “no such file or directory” se deben a rutas incorrectas. 
+Aprendí a verificar las carpetas con ls y a corregir las rutas. 
+Este proceso me ayuda a ser más responsable con la información que publico en línea. 
+Además, me motiva a seguir practicando para tener más seguridad en el manejo de Git. 
+En conclusión, fue una experiencia de aprendizaje valiosa y práctica.
+

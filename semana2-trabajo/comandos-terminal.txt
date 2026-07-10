@@ -1,0 +1,9 @@
+cd ~/Programadores-para-la-paz/semana2-trabajo
+ls
+nano preguntas-semana2.txt
+nano comandos-terminal.txt
+nano reflexion-semana2.txt
+git add .
+git commit -m "Agregada carpeta semana2-trabajo con actividad completa"
+git push origin main
+

@@ -1,0 +1,3 @@
+1. ¿Qué comandos básicos se usan en Git Bash?
+2. ¿Cómo se crea un repositorio en GitHub?
+3. ¿Qué significa hacer un commit?
