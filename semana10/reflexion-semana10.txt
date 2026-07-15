@@ -1,0 +1,8 @@
+Las metodologías ágiles ayudan a organizar mejor una comunidad porque permiten dividir el trabajo en tareas pequeñas y claras. 
+El backlog facilita priorizar lo más importante y no perder de vista los objetivos. 
+La automatización con n8n ahorra tiempo y evita errores, ya que los procesos se ejecutan solos. 
+Telegram sirve como canal rápido de coordinación y notificación, sin necesidad de compartir datos sensibles. 
+Todo esto fortalece la participación ciudadana porque la información fluye mejor y se mantiene organizada. 
+Además, la trazabilidad permite saber quién hizo qué y cuándo, lo que da confianza y transparencia. 
+La comunidad puede trabajar de manera colaborativa y responsable, con entregas iterativas que muestran avances reales. 
+En conclusión, estas herramientas hacen que el proceso sea más ordenado, seguro y participativo.

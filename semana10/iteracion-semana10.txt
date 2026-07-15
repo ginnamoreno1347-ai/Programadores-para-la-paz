@@ -1,0 +1,11 @@
+Tareas que haría primero:
+1. Registrar una incidencia.
+2. Recibir alerta en Telegram.
+
+¿Por qué son importantes?
+Porque permiten iniciar el flujo básico de participación y asegurar que la información llegue a los coordinadores.
+
+Definición de terminado:
+- Funciona correctamente.
+- Fue probada.
+- Quedó registrada en Git.
