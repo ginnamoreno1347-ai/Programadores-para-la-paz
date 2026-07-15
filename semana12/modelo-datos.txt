@@ -1,0 +1,13 @@
+Entidad: Causa
+- id
+- titulo
+- descripcion
+- fecha
+Sirve para guardar las causas comunitarias.
+
+Entidad: Apoyo
+- id
+- causa_id
+- nombre
+- fecha
+Sirve para registrar los apoyos que recibe cada causa.
